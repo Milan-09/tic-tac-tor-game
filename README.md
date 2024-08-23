@@ -1,1 +1,1 @@
-# tic-tac-tor-game
+# tic-tac-toe-game
